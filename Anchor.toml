@@ -7,7 +7,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-test_verified_builds = "7esAkToYq1hTYMPhVuN68DkLJjdAAnyCBkEjM8TLHUue"
+test_verified_builds = "Aqqcv3jontcAEChksaG9zVCuLYSthrwtPzUBpPDrdBBj"
 
 [provider]
 cluster = "localnet"

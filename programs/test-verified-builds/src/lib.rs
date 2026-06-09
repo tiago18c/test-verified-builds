@@ -9,7 +9,7 @@ pub use constants::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("7esAkToYq1hTYMPhVuN68DkLJjdAAnyCBkEjM8TLHUue");
+declare_id!("Aqqcv3jontcAEChksaG9zVCuLYSthrwtPzUBpPDrdBBj");
 
 #[program]
 pub mod test_verified_builds {
